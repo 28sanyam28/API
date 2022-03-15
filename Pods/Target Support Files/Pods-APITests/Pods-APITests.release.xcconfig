@@ -1,0 +1,11 @@
+CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Alamofire" "${PODS_CONFIGURATION_BUILD_DIR}/AlamofireImage" "${PODS_CONFIGURATION_BUILD_DIR}/SPPermissions" "${PODS_CONFIGURATION_BUILD_DIR}/SideMenu" "${PODS_CONFIGURATION_BUILD_DIR}/SmileLock" "${PODS_CONFIGURATION_BUILD_DIR}/SwiftyJSON" "${PODS_CONFIGURATION_BUILD_DIR}/ViewPager-Swift"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Alamofire/Alamofire.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/AlamofireImage/AlamofireImage.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/SPPermissions/SPPermissions.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/SideMenu/SideMenu.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/SmileLock/SmileLock.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/SwiftyJSON/SwiftyJSON.framework/Headers" "${PODS_CONFIGURATION_BUILD_DIR}/ViewPager-Swift/ViewPager_Swift.framework/Headers"
+OTHER_LDFLAGS = $(inherited) -framework "Alamofire" -framework "AlamofireImage" -framework "CFNetwork" -framework "SPPermissions" -framework "SideMenu" -framework "SmileLock" -framework "SwiftyJSON" -framework "UIKit" -framework "ViewPager_Swift" -weak_framework "LocalAuthentication"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
+PODS_XCFRAMEWORKS_BUILD_DIR = $(PODS_CONFIGURATION_BUILD_DIR)/XCFrameworkIntermediates
+USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES

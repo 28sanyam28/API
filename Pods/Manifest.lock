@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (5.5.0)
+  - AlamofireImage (4.2.0):
+    - Alamofire (~> 5.4)
+  - SideMenu (6.5.0)
+  - SmileLock (3.0.7)
+  - SPPermissions/Camera (7.1.5):
+    - SPPermissions/Core
+  - SPPermissions/Core (7.1.5)
+  - SwiftyJSON (4.3.0)
+  - ViewPager-Swift (2.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.5)
+  - AlamofireImage (~> 4.1)
+  - SideMenu
+  - SmileLock
+  - SPPermissions/Camera
+  - SwiftyJSON (~> 4.0)
+  - ViewPager-Swift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - SideMenu
+    - SmileLock
+    - SPPermissions
+    - SwiftyJSON
+    - ViewPager-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  AlamofireImage: 34a2d90b0e5fe6a5605f85ae4b7b01e784c60192
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SmileLock: 46b847b3ad963e3140d083b53f09036a4d210537
+  SPPermissions: c63ac1132badad39917de03a3c9dc2429ace94be
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  ViewPager-Swift: 92fa2a54d56998c85526eaaafc4b7b3f4830ca36
+
+PODFILE CHECKSUM: 21311a2ccb736d4772c43093fd742ef0cf605bb2
+
+COCOAPODS: 1.11.2
