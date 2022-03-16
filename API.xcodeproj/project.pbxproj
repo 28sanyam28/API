@@ -1308,7 +1308,7 @@
 		CB37860E1DF6BA8165D44D57 /* Pods-APITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-APITests.release.xcconfig"; path = "Target Support Files/Pods-APITests/Pods-APITests.release.xcconfig"; sourceTree = "<group>"; };
 		D8D680EB2490D1B8479BC8F9 /* Pods-API.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-API.debug.xcconfig"; path = "Target Support Files/Pods-API/Pods-API.debug.xcconfig"; sourceTree = "<group>"; };
 		FA0EEE7927D9C8EC00FFC1E8 /* LockCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockCollectionViewCell.swift; sourceTree = "<group>"; };
-		FA10356D27CF49B800214D7D /* DemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoViewController.swift; sourceTree = "<group>"; };
+		FA10356D27CF49B800214D7D /* DemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = DemoViewController.swift; sourceTree = "<group>"; };
 		FA1B7C8927D75626005F15DF /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		FA1B7C8B27D78B85005F15DF /* GurbaniWebThick.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = GurbaniWebThick.ttf; sourceTree = "<group>"; };
 		FA20660227D628AB00F1427E /* 0048.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 0048.json; sourceTree = "<group>"; };

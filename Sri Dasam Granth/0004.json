@@ -17,14 +17,14 @@
           "SGPC": "qyrw joru ] cwcrI CMd ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "ALL THY MIGHT. CHACHARI STANZA",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਤੇਰਾ ਬਲ: ਚਾਚਰੀ ਛੰਦ:",
               "additional_information": {}
             }
@@ -42,14 +42,14 @@
           "SGPC": "jly hYN ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art in water.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਜਲ ਵਿਚ ਹੈਂ,",
               "additional_information": {}
             }
@@ -67,14 +67,14 @@
           "SGPC": "Qly hYN ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art on land.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਥਲ ਵਿਚ ਹੈਂ,",
               "additional_information": {}
             }
@@ -92,14 +92,14 @@
           "SGPC": "ABIq hYN ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art Fearless.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਭੈ ਹੈਂ;",
               "additional_information": {}
             }
@@ -117,14 +117,14 @@
           "SGPC": "ABy hYN ]62]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art Indiscriminate.62.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "(ਤੇਰੇ) ਭੇਦ ਨੂੰ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ ॥੬੨॥",
               "additional_information": {}
             }
@@ -142,14 +142,14 @@
           "SGPC": "pRBU hYN ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the Master of all.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "(ਤੂੰ ਸਭ ਦਾ) ਸੁਆਮੀ ਹੈਂ,",
               "additional_information": {}
             }
@@ -167,14 +167,14 @@
           "SGPC": "AjU hYN ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art Unborn.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਜਨਮ ਤੋਂ ਬਿਨਾ ਹੈਂ,",
               "additional_information": {}
             }
@@ -192,14 +192,14 @@
           "SGPC": "Adys hYN ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art Countryless.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਦੇਸ ਤੋਂ ਬਿਨਾ ਹੈਂ,",
               "additional_information": {}
             }
@@ -217,14 +217,14 @@
           "SGPC": "ABys hYN ]63]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art Garbless.63.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਭੇਸ ਤੋਂ ਬਿਨਾ ਹੈਂ ॥੬੩॥",
               "additional_information": {}
             }
@@ -251,14 +251,14 @@
           "SGPC": "BujMg pRXwq CMd ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "BHUJANG PRAYAAT STANZA,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਭੁਜੰਗ ਪ੍ਰਯਾਤ ਛੰਦ: ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ:",
               "additional_information": {}
             }
@@ -276,14 +276,14 @@
           "SGPC": "AgwDy AbwDy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Impenetrable Lord!  Salutation to Thee O Unbound Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਅਗਾਧ (ਅਥਾਹ) ਹੇ ਅਬਾਧ (ਅਸੀਮ)!",
               "additional_information": {}
             }
@@ -301,14 +301,14 @@
           "SGPC": "AnµdI srUpy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O All-Bliss Entity Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਆਨੰਦ-ਸਰੂਪ!",
               "additional_information": {}
             }
@@ -326,14 +326,14 @@
           "SGPC": "nmo srb mwny ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Universally-Honoured Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਾਰਿਆਂ ਦੁਆਰਾ ਮੰਨੇ ਜਾਣ ਵਾਲੇ",
               "additional_information": {}
             }
@@ -351,14 +351,14 @@
           "SGPC": "smsqI inDwny ]64]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O All-Treasure Lord! 64",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਤੇ ਸਾਰਿਆਂ (ਗੁਣਾਂ ਅਥਵਾ ਪਦਾਰਥਾਂ) ਦੇ ਖ਼ਜ਼ਾਨੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੬੪॥",
               "additional_information": {}
             }
@@ -376,14 +376,14 @@
           "SGPC": "nmsqÍM inRnwQy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Masterless Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸੁਆਮੀ-ਰਹਿਤ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -401,14 +401,14 @@
           "SGPC": "nmsqÍM pRmwQy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Destroyer Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ (ਸਾਰਿਆਂ ਦੇ) ਸੰਘਾਰਕ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -426,14 +426,14 @@
           "SGPC": "nmsqÍM AgMjy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Unconquerable Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਨਾ ਨਸ਼ਟ ਕੀਤੇ ਜਾ ਸਕਣ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -451,14 +451,14 @@
           "SGPC": "nmsqÍM ABMjy ]65]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Invincible Lord! 65",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਨਾ ਭੰਨੇ ਜਾ ਸਕਣ ਵਾਲੇ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ ॥੬੫॥",
               "additional_information": {}
             }
@@ -476,14 +476,14 @@
           "SGPC": "nmsqÍM Akwly ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Deathless Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਕਾਲ-ਰਹਿਤ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -501,14 +501,14 @@
           "SGPC": "nmsqÍM Apwly ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Patronless Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਪਾਲਕ-ਰਹਿਤ! ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -526,14 +526,14 @@
           "SGPC": "nmo srb dysy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O All-Pervasive Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਾਰੇ ਦੇਸ਼ਾਂ ਵਾਲੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -551,14 +551,14 @@
           "SGPC": "nmo srb Bysy ]66]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O All-garb Lord! 66",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਾਰੇ ਭੇਸਾਂ ਵਾਲੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੬੬॥",
               "additional_information": {}
             }
@@ -576,14 +576,14 @@
           "SGPC": "nmo rwj rwjy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Supreme Sovereign Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਰਾਜਿਆਂ ਦੇ ਵੀ ਰਾਜੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -601,14 +601,14 @@
           "SGPC": "nmo swj swjy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Best Musical Equipment Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਿਰਜਨਹਾਰਾਂ ਦੇ ਵੀ ਸਿਰਜਨਹਾਰ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -626,14 +626,14 @@
           "SGPC": "nmo Swh Swhy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Supreme Emporer Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸ਼ਾਹਾਂ ਦੇ ਵੀ ਸ਼ਾਹ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -651,14 +651,14 @@
           "SGPC": "nmo mwh mwhy ]67]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Supreme Moon Lord! 67",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਚੰਦ੍ਰਮਿਆਂ ਦੇ ਚੰਦ੍ਰਮਾ ('ਮਾਹ')! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੬੭॥",
               "additional_information": {}
             }
@@ -676,14 +676,14 @@
           "SGPC": "nmo gIq gIqy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Song Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਗੀਤਾਂ ਦੇ ਗੀਤ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -701,14 +701,14 @@
           "SGPC": "nmo pRIq pRIqy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Love Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਪ੍ਰੇਮਾਂ ਦੇ ਪ੍ਰੇਮ (ਪ੍ਰੀਤਵਾਨਾਂ ਦੇ ਪ੍ਰੀਤਵਾਨ)! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -726,14 +726,14 @@
           "SGPC": "nmo roK roKy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Zeal Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਰੋਹਾਂ ਦੇ ਰੋਹ (ਰੋਸ)! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -751,14 +751,14 @@
           "SGPC": "nmo soK soKy ]68]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Brightest Lord! 68",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸ਼ੋਖਾਂ ਦੇ ਸ਼ੋਖ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੬੮॥",
               "additional_information": {}
             }
@@ -776,14 +776,14 @@
           "SGPC": "nmo srb rogy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Universal Ailment Lord !",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਰਬ ਰੋਗ-ਸਰੂਪ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -801,14 +801,14 @@
           "SGPC": "nmo srb Bogy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Universal Enjoyer Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਰਬ ਭੋਗ-ਰੂਪ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -826,14 +826,14 @@
           "SGPC": "nmo srb jIqM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Universal Ailment Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਭ ਦੇ ਵਿਜੇਤਾ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -851,14 +851,14 @@
           "SGPC": "nmo srb BIqM ]69]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Universal Fear Lord! 69",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਭ ਨੂੰ ਭੈ ਦੇਣ ਵਾਲੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੬੯॥",
               "additional_information": {}
             }
@@ -876,14 +876,14 @@
           "SGPC": "nmo srb igAwnµ ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Omniscient Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਰਬ ਗਿਆਨ-ਸਰੂਪ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -901,14 +901,14 @@
           "SGPC": "nmo prm qwnµ ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Omnipotent Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਪਰਮ ਤ੍ਰਾਣ-ਸਰੂਪ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -926,14 +926,14 @@
           "SGPC": "nmo srb mMqRM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Entire-Mantras-Knower Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਰਬ ਮੰਤ੍ਰ-ਸਰੂਪ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -951,14 +951,14 @@
           "SGPC": "nmo srb jMqRM ]70]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Entire-Yantras Knower Lord! 70",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਰਬ ਯੰਤ੍ਰ-ਸਰੂਪ; (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ ॥੭੦॥",
               "additional_information": {}
             }
@@ -976,14 +976,14 @@
           "SGPC": "nmo srb idR`sM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O All-Beholder Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਭ ਨੂੰ ਵੇਖਣ ਵਾਲੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -1001,14 +1001,14 @@
           "SGPC": "nmo srb ik®`sM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Universal attraction Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਭ ਨੂੰ ਆਕਰਸ਼ਿਤ ਕਰਨ ਵਾਲੇ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -1026,14 +1026,14 @@
           "SGPC": "nmo srb rMgy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O All-Colour Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਸਰਬ ਰੰਗ (ਆਨੰਦ) ਸਰੂਪ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -1051,14 +1051,14 @@
           "SGPC": "iqRBMgI Anµgy ]71]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Three-World-Destroyer Lord! 71",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਤਿੰਨ ਲੋਕਾਂ ਦੇ ਸੰਘਾਰਕ ਅਤੇ ਨਿਰਾਕਾਰ ਰੂਪ ਵਾਲੇ! (ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ) ॥੭੧॥",
               "additional_information": {}
             }
@@ -1076,14 +1076,14 @@
           "SGPC": "nmo jIv jIvM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Universal-Life Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਜੀਵਾਂ ਦੇ ਜੀਵ! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -1101,14 +1101,14 @@
           "SGPC": "nmo bIj bIjy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Primal-Seed Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਬੀਜਾਂ ਦੇ ਬੀਜ (ਕਾਰਨ ਸਰੂਪ)! (ਤੈਨੂੰ) ਨਮਸਕਾਰ ਹੈ;",
               "additional_information": {}
             }
@@ -1126,14 +1126,14 @@
           "SGPC": "AiK`jy AiB`jy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Harmless Lord!  Salutation to Thee O Non-Appeaser Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਨਾ ਖਿਝਣ ਵਾਲੇ, ਨਾ ਭਿਜਣ ਵਾਲੇ (ਘੁਲ ਮਿਲ ਜਾਣ ਵਾਲੇ)",
               "additional_information": {}
             }
@@ -1151,14 +1151,14 @@
           "SGPC": "smsqM pRis`jy ]72]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Universal Boon-Bestwer Lord! 72",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਤੇ ਸਾਰਿਆਂ ਉਤੇ ਪ੍ਰਸੰਨ ਹੋਣ ਵਾਲੇ! (ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ) ॥੭੨॥",
               "additional_information": {}
             }
@@ -1176,14 +1176,14 @@
           "SGPC": "ik®pwlµ srUpy kukrmM pRxwsI ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Generosity-Embodiment Lord! Salutation to Thee O Sins-Destroyer Lord!",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਹੇ ਕ੍ਰਿਪਾਲੂ ਸਰੂਪ ਵਾਲੇ, ਮਾੜੇ ਕਰਮਾਂ ਨੂੰ ਨਸ਼ਟ ਕਰਨ ਵਾਲੇ",
               "additional_information": {}
             }
@@ -1201,14 +1201,14 @@
           "SGPC": "sdw srb dw iriD isDM invwsI ]73]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Salutation to Thee O Ever-Universal Riches Denizen Lord!  Salutation to Thee O Ever-Universal Powers Denizen Lord! 73",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਤੇ ਸਦਾ ਸਭ ਥਾਂ ਰਿੱਧੀਆਂ ਸਿੱਧੀਆਂ ਦੇ ਮੂਲ ਸਥਾਨ! (ਤੈਨੂੰ ਨਮਸਕਾਰ ਹੈ) ॥੭੩॥",
               "additional_information": {}
             }
@@ -1235,14 +1235,14 @@
           "SGPC": "crpt CMd ] qÍ pRswid ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "CHARPAT STANZA. BY THY GRACE",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਚਰਪਟ ਛੰਦ: ਤੇਰੀ ਕ੍ਰਿਪਾ ਨਾਲ:",
               "additional_information": {}
             }
@@ -1260,14 +1260,14 @@
           "SGPC": "AMimR`q krmy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thy actions are Permanent,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਅਮਰ ਕਰਮ ਵਾਲਾ,",
               "additional_information": {}
             }
@@ -1285,14 +1285,14 @@
           "SGPC": "AMibRq Drmy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thy Laws are Permanent.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਖੰਡ ('ਅੰਬ੍ਰਿਤ') ਧਰਮ ਵਾਲਾ,",
               "additional_information": {}
             }
@@ -1310,14 +1310,14 @@
           "SGPC": "AK`l jogy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art united with all,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਸਭ ਨਾਲ ਯੁਕਤ (ਜੁੜਿਆ ਹੋਇਆ)",
               "additional_information": {}
             }
@@ -1335,14 +1335,14 @@
           "SGPC": "Ac`l Bogy ]74]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art their permanent Enjoyer.74.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਤੇ ਅਚਲ ਭੋਗ ਸਾਮਗ੍ਰੀ ਵਾਲਾ ਹੈਂ ॥੭੪॥",
               "additional_information": {}
             }
@@ -1360,14 +1360,14 @@
           "SGPC": "Ac`l rwjy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thy Kingdom is Permanent,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਅਚਲ ਰਾਜ ਵਾਲਾ,",
               "additional_information": {}
             }
@@ -1385,14 +1385,14 @@
           "SGPC": "At`l swjy ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thy Adornment is Permanent.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਟਲ ਸਾਜ (ਸਿਰਜਨਾ) ਵਾਲਾ,",
               "additional_information": {}
             }
@@ -1410,14 +1410,14 @@
           "SGPC": "AK`l DrmM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thy Laws are Complete,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਸਾਰੇ ਧਰਮਾਂ ਵਾਲਾ",
               "additional_information": {}
             }
@@ -1435,14 +1435,14 @@
           "SGPC": "Al`K krmM ]75]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thy Words are beyond Comprehension.75.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਤੇ ਅਦ੍ਰਿਸ਼ ਕਰਮਾਂ ਵਾਲਾ ਹੈਂ ॥੭੫॥",
               "additional_information": {}
             }
@@ -1460,14 +1460,14 @@
           "SGPC": "srbM dwqw ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the universal Donor,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਸਭ ਨੂੰ ਦੇਣ ਵਾਲਾ,",
               "additional_information": {}
             }
@@ -1485,14 +1485,14 @@
           "SGPC": "srbM igAwqw ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art Omniscient.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਸਭ ਨੂੰ ਜਾਣਨ ਵਾਲਾ,",
               "additional_information": {}
             }
@@ -1510,14 +1510,14 @@
           "SGPC": "srbM Bwny ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the Enlightener of all,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਸਭ ਨੂੰ ਪ੍ਰਕਾਸ਼ਮਾਨ ('ਭਾਨੇ') ਕਰਨ ਵਾਲਾ",
               "additional_information": {}
             }
@@ -1535,14 +1535,14 @@
           "SGPC": "srbM mwny ]76]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the Enjoyer of all.76.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਤੇ ਸਭ ਦੁਆਰਾ ਮੰਨੇ ਜਾਣ ਵਾਲਾ (ਪੂਜਣਯੋਗ) ਹੈਂ ॥੭੬॥",
               "additional_information": {}
             }
@@ -1560,14 +1560,14 @@
           "SGPC": "srbM pRwxM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the Life of all,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਸਭ ਦਾ ਪ੍ਰਾਣ ਹੈਂ,",
               "additional_information": {}
             }
@@ -1585,14 +1585,14 @@
           "SGPC": "srbM qRwxM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the Strength of all.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਸਭ ਦਾ ਤ੍ਰਾਣ (ਬਲ) ਹੈਂ,",
               "additional_information": {}
             }
@@ -1610,14 +1610,14 @@
           "SGPC": "srbM Bugqw ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the Enjoyer of all,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਸਭ ਨੂੰ ਭੋਗਣ ਵਾਲਾ ਹੈਂ",
               "additional_information": {}
             }
@@ -1635,14 +1635,14 @@
           "SGPC": "srbM jugqw ]77]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art United with all.77.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਤੇ ਸਭ ਨਾਲ ਜੁੜਿਆ ਹੋਇਆ ਹੈਂ ॥੭੭॥",
               "additional_information": {}
             }
@@ -1660,14 +1660,14 @@
           "SGPC": "srbM dyvM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art worshipped by all,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "(ਹੇ ਪ੍ਰਭੂ! ਤੂੰ) ਸਭ ਦਾ ਦੇਵ (ਇਸ਼ਟ) ਹੈਂ,",
               "additional_information": {}
             }
@@ -1685,14 +1685,14 @@
           "SGPC": "srbM ByvM ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art a mystery for all.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਸਭ ਦੇ ਭੇਦ ਨੂੰ ਜਾਣਨ ਵਾਲਾ ਹੈਂ,",
               "additional_information": {}
             }
@@ -1710,14 +1710,14 @@
           "SGPC": "srbM kwly ]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the Destroyer of all,",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਸਭ ਦਾ ਕਾਲ ਹੈਂ",
               "additional_information": {}
             }
@@ -1735,14 +1735,14 @@
           "SGPC": "srbM pwly ]78]"
         },
         "translations": {
-          "English": {
-            "Dr. Surinder Singh Kohli": {
+          "english": {
+            "kohli": {
               "translation": "Thou art the Sustainer of all.78.",
               "additional_information": {}
             }
           },
-          "Punjabi": {
-            "Dr. Rattan Singh Jaggi": {
+          "punjabi": {
+            "jaggi": {
               "translation": "ਅਤੇ ਸਭ ਦਾ ਪਾਲਕ ਹੈਂ ॥੭੮॥",
               "additional_information": {}
             }
