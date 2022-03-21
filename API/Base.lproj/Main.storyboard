@@ -368,7 +368,7 @@
         <!--Demo View Controller-->
         <scene sceneID="hbp-lH-AnR">
             <objects>
-                <viewController storyboardIdentifier="DemoViewController" id="smj-5y-IqH" customClass="DemoViewController" customModule="API" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="DemoViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="smj-5y-IqH" customClass="DemoViewController" customModule="API" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="O0J-AW-Izp">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -532,14 +532,14 @@
                                         <color key="backgroundColor" red="0.098039215686274508" green="0.094117647058823528" blue="0.13725490196078433" alpha="1" colorSpace="calibratedRGB"/>
                                         <size key="customSize" width="414" height="818"/>
                                         <connections>
-                                            <outlet property="lblEnglish" destination="Ije-h0-D9u" id="sK4-TB-IRQ"/>
+                                            <outlet property="lblEnglish0" destination="Ije-h0-D9u" id="yZa-fK-kBu"/>
                                             <outlet property="lblEnglish1" destination="DqR-5e-z5x" id="KpI-Sd-7R9"/>
                                             <outlet property="lblEnglish2" destination="NOc-Uo-OmO" id="Ibg-WO-Smh"/>
                                             <outlet property="lblEnglish3" destination="bja-Zo-ISC" id="I6m-Td-Xho"/>
                                             <outlet property="lblEnglish4" destination="cwD-WW-BEa" id="spf-bR-9Ut"/>
                                             <outlet property="lblPage" destination="26K-Tx-bQh" id="Avl-DF-bWP"/>
                                             <outlet property="lblPageNo" destination="HJ6-8L-RmB" id="m91-aC-JvO"/>
-                                            <outlet property="lblPunjabi" destination="Emb-aM-4c9" id="53L-cz-U3D"/>
+                                            <outlet property="lblPunjabi0" destination="Emb-aM-4c9" id="RjZ-3v-6T9"/>
                                             <outlet property="lblPunjabi1" destination="kC0-4d-0j9" id="QC3-A6-oSY"/>
                                             <outlet property="lblPunjabi2" destination="wO8-Ht-Bsw" id="k7w-dC-uUb"/>
                                             <outlet property="lblPunjabi3" destination="NyW-0f-UoV" id="B7N-ZC-N3m"/>
@@ -560,7 +560,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="0JQ-up-NKA"/>
                     <connections>
-                        <outlet property="collectionView" destination="tYI-qw-LVd" id="rsw-QD-3In"/>
+                        <outlet property="collectionView" destination="tYI-qw-LVd" id="FW8-MV-vpb"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NKT-f6-zaP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

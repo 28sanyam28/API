@@ -11,7 +11,6 @@
 		7F77FF50D1B2810B488EA2AC /* Pods_APITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 899D7C9E49573EF8F981A47E /* Pods_APITests.framework */; };
 		AD85737D5D32B762CDA2E75D /* Pods_API_APIUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9692602F6526CDE212B47ABB /* Pods_API_APIUITests.framework */; };
 		FA0EEE7A27D9C8EC00FFC1E8 /* LockCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0EEE7927D9C8EC00FFC1E8 /* LockCollectionViewCell.swift */; };
-		FA10356E27CF49B800214D7D /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA10356D27CF49B800214D7D /* DemoViewController.swift */; };
 		FA1B7C8A27D75626005F15DF /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1B7C8927D75626005F15DF /* Models.swift */; };
 		FA1B7C8C27D78B85005F15DF /* GurbaniWebThick.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA1B7C8B27D78B85005F15DF /* GurbaniWebThick.ttf */; };
 		FA206ADE27D628AF00F1427E /* 0048.json in Resources */ = {isa = PBXBuildFile; fileRef = FA20660227D628AB00F1427E /* 0048.json */; };
@@ -1276,6 +1275,7 @@
 		FA7EC8D227A8F997004EB7BD /* APIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7EC8D127A8F997004EB7BD /* APIUITestsLaunchTests.swift */; };
 		FA8CF4F227AE5D7400AF29C5 /* LockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8CF4F127AE5D7400AF29C5 /* LockViewController.swift */; };
 		FAD8991127D9EDEC002A4D3E /* DemoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD8991027D9EDEC002A4D3E /* DemoCollectionViewCell.swift */; };
+		FAE35DBE27E3093500EE68C6 /* DemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA10356D27CF49B800214D7D /* DemoViewController.swift */; };
 		FAF17CEF27B23B7B00B1CDCE /* PasswordValidation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF17CEE27B23B7B00B1CDCE /* PasswordValidation.swift */; };
 		FAF17CF427B23D6300B1CDCE /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF17CF327B23D6300B1CDCE /* WelcomeViewController.swift */; };
 /* End PBXBuildFile section */
@@ -2636,6 +2636,7 @@
 			isa = PBXGroup;
 			children = (
 				FA2065FE27D6257D00F1427E /* View */,
+				FAD8991227DA2882002A4D3E /* Cell */,
 			);
 			path = Demo;
 			sourceTree = "<group>";
@@ -3915,6 +3916,15 @@
 			path = Helpers;
 			sourceTree = "<group>";
 		};
+		FA5753F127E305FC001718C3 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				FA0EEE7927D9C8EC00FFC1E8 /* LockCollectionViewCell.swift */,
+			);
+			name = Cell;
+			path = Demo/Cell;
+			sourceTree = "<group>";
+		};
 		FA68B15D27AA7408004497E7 /* APIView */ = {
 			isa = PBXGroup;
 			children = (
@@ -3954,12 +3964,12 @@
 			children = (
 				FA7EC8AE27A8F995004EB7BD /* AppDelegate.swift */,
 				FA7EC8B027A8F995004EB7BD /* SceneDelegate.swift */,
+				FAC6A14127E84D3500EBF63E /* Json */,
 				FA8CF4F327AE5DA300AF29C5 /* LockView */,
 				FA10356C27CF493A00214D7D /* Demo */,
-				FAD8991227DA2882002A4D3E /* Cell */,
+				FA5753F127E305FC001718C3 /* Cell */,
 				FA68B15D27AA7408004497E7 /* APIView */,
 				FA7EC8B427A8F995004EB7BD /* Main.storyboard */,
-				FA0EEE7927D9C8EC00FFC1E8 /* LockCollectionViewCell.swift */,
 				FA7EC8B727A8F997004EB7BD /* Assets.xcassets */,
 				FA7EC8B927A8F997004EB7BD /* LaunchScreen.storyboard */,
 				FA7EC8BC27A8F997004EB7BD /* Info.plist */,
@@ -3994,12 +4004,20 @@
 			path = LockView;
 			sourceTree = "<group>";
 		};
+		FAC6A14127E84D3500EBF63E /* Json */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Json;
+			sourceTree = "<group>";
+		};
 		FAD8991227DA2882002A4D3E /* Cell */ = {
 			isa = PBXGroup;
 			children = (
 				FAD8991027D9EDEC002A4D3E /* DemoCollectionViewCell.swift */,
 			);
-			path = Cell;
+			name = Cell;
+			path = ../Cell;
 			sourceTree = "<group>";
 		};
 		FAF17CF127B23C8A00B1CDCE /* Cell */ = {
@@ -5508,6 +5526,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAE35DBE27E3093500EE68C6 /* DemoViewController.swift in Sources */,
 				FA6786DF27AD2A9F0008502B /* EditViewController.swift in Sources */,
 				FA8CF4F227AE5D7400AF29C5 /* LockViewController.swift in Sources */,
 				FA68B15C27AA6F56004497E7 /* SignupVc.swift in Sources */,
@@ -5522,7 +5541,6 @@
 				FA68B15F27AA8F5C004497E7 /* ForgotViewController.swift in Sources */,
 				FA0EEE7A27D9C8EC00FFC1E8 /* LockCollectionViewCell.swift in Sources */,
 				FAD8991127D9EDEC002A4D3E /* DemoCollectionViewCell.swift in Sources */,
-				FA10356E27CF49B800214D7D /* DemoViewController.swift in Sources */,
 				FA7EC8B127A8F995004EB7BD /* SceneDelegate.swift in Sources */,
 				FA68B16327AA95E6004497E7 /* OTPViewController.swift in Sources */,
 			);

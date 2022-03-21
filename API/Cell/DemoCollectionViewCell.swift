@@ -10,8 +10,8 @@ import UIKit
 class DemoCollectionViewCell: UICollectionViewCell {
     @IBOutlet var lblPage: UILabel!
     @IBOutlet var lblPageNo: UILabel!
-    @IBOutlet var lblPunjabi: UILabel!
-    @IBOutlet var lblEnglish: UILabel!
+    @IBOutlet var lblPunjabi0: UILabel!
+    @IBOutlet var lblEnglish0: UILabel!
     @IBOutlet var lblPunjabi1: UILabel!
     @IBOutlet var lblEnglish1: UILabel!
     @IBOutlet var lblPunjabi2: UILabel!

@@ -101,7 +101,7 @@
 		B4926B974745AA877BFA3D6830F6DB80 /* SPPermissionsPermissionIconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D1047AEF0D0C43AF4B0E4D8B4AECB0 /* SPPermissionsPermissionIconView.swift */; };
 		B704B198B9B520D449260877E300D821 /* ServerTrustEvaluation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1802620F8E33A1B2923BB03C8EDA294 /* ServerTrustEvaluation.swift */; };
 		B72D3EA4F0D04B935A5C878EB96158E4 /* PasswordContainerView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0A4F1649C2865BB4B7BBF9E9FEAE9D42 /* PasswordContainerView.xib */; };
-		B775D2ACCEAEB173C5909961D4674BB0 /* SPPermissions-SPPermissions in Resources */ = {isa = PBXBuildFile; fileRef = 0211367793A2FCD536B938775CD8B81E /* SPPermissions-SPPermissions */; };
+		B775D2ACCEAEB173C5909961D4674BB0 /* SPPermissions.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 0211367793A2FCD536B938775CD8B81E /* SPPermissions.bundle */; };
 		B804587E525773FCA9698855B2C752DC /* SideMenuAnimationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFE47914ACDDE553B34C010D384F548B /* SideMenuAnimationController.swift */; };
 		B830A3835A30CF5FC875CF6D2B0830E9 /* ImageDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D6C532E11FC5A0C7A272D836831AA9 /* ImageDownloader.swift */; };
 		BAD238BD38D1A33800F067F9B7DB6BB9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E73EEF4EEAED11ABDCB1B17B55A75355 /* Foundation.framework */; };
@@ -272,7 +272,7 @@
 /* Begin PBXFileReference section */
 		00B547B7B80B7D2F57DF78F699ECF654 /* AlamofireImage.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AlamofireImage.debug.xcconfig; sourceTree = "<group>"; };
 		00F18837D109C912CC76F2321116E964 /* SwiftyJSON.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SwiftyJSON.debug.xcconfig; sourceTree = "<group>"; };
-		0211367793A2FCD536B938775CD8B81E /* SPPermissions-SPPermissions */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "SPPermissions-SPPermissions"; path = SPPermissions.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		0211367793A2FCD536B938775CD8B81E /* SPPermissions.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SPPermissions.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		0314669CED5E868AD748CB2F7BDAAA4A /* SPPermissionsDialogTableFooterView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SPPermissionsDialogTableFooterView.swift; path = Sources/SPPermissions/Interface/Dialog/SPPermissionsDialogTableFooterView.swift; sourceTree = "<group>"; };
 		050C688ED807EC799199A17E161848E6 /* Print.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Print.swift; path = Pod/Classes/Print.swift; sourceTree = "<group>"; };
 		06785FFB3DAFEFE49002DDABE4577FCA /* Assets.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = SmileLock/Assets/Assets.xcassets; sourceTree = "<group>"; };
@@ -320,7 +320,7 @@
 		2F6894F18388AA682D8B5D04CFE0D94E /* Protected.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Protected.swift; path = Pod/Classes/Protected.swift; sourceTree = "<group>"; };
 		3026BA1EAC6628E9CC5EBF6DA0400723 /* SPPermissionsListController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SPPermissionsListController.swift; path = Sources/SPPermissions/Interface/List/SPPermissionsListController.swift; sourceTree = "<group>"; };
 		3093AFB54784177B22462DB5FC24D1FF /* SPPermissions-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SPPermissions-Info.plist"; sourceTree = "<group>"; };
-		319D06AA0D1D0BA345459C039040A1ED /* SideMenu */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SideMenu; path = SideMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		319D06AA0D1D0BA345459C039040A1ED /* SideMenu.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SideMenu.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		31DD255B53C4F1381CE65E517AA8FA7E /* SPPermissionsListHeaderView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SPPermissionsListHeaderView.swift; path = Sources/SPPermissions/Interface/List/SPPermissionsListHeaderView.swift; sourceTree = "<group>"; };
 		338BD76210CD26C9848315EFA5F8EC13 /* SPPermissionsDialogView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SPPermissionsDialogView.swift; path = Sources/SPPermissions/Interface/Dialog/SPPermissionsDialogView.swift; sourceTree = "<group>"; };
 		34128CEB3701C1F32381C7DFB8DFB907 /* PasswordContainerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PasswordContainerView.swift; path = SmileLock/Classes/PasswordContainerView.swift; sourceTree = "<group>"; };
@@ -348,7 +348,7 @@
 		4F8F06D39400A30358EA6C3769AEA444 /* Image.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Image.swift; path = Source/Image.swift; sourceTree = "<group>"; };
 		4FACA83BFCFC063301F222A1353F36BF /* ImageFilter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageFilter.swift; path = Source/ImageFilter.swift; sourceTree = "<group>"; };
 		4FB6339BBD891DE168DE6C47A9699CD0 /* CachedResponseHandler.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CachedResponseHandler.swift; path = Source/CachedResponseHandler.swift; sourceTree = "<group>"; };
-		516BBBB29224D265D7D333938F7E78CA /* SmileLock */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SmileLock; path = SmileLock.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		516BBBB29224D265D7D333938F7E78CA /* SmileLock.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SmileLock.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		51A572CD30BBFE85326BAE8008050837 /* Pods-API */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-API"; path = Pods_API.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		51C2F352A9AA6F905320C4238A64DAD4 /* SwiftyJSON-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SwiftyJSON-dummy.m"; sourceTree = "<group>"; };
 		56D698403E09F4669B8C969DD061E7F7 /* SmileLock-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SmileLock-Info.plist"; sourceTree = "<group>"; };
@@ -361,8 +361,8 @@
 		5AA9FA104774C6D97444C1128D881F14 /* SPPermissionsDialogController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SPPermissionsDialogController.swift; path = Sources/SPPermissions/Interface/Dialog/SPPermissionsDialogController.swift; sourceTree = "<group>"; };
 		5B47423820889FB32D83A7731C9E07F9 /* SwiftyJSON.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftyJSON.modulemap; sourceTree = "<group>"; };
 		5BCBC9005AC6A9D5D4A2AAE88DCDE857 /* SideMenuInteractionController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SideMenuInteractionController.swift; path = Pod/Classes/SideMenuInteractionController.swift; sourceTree = "<group>"; };
-		5D797E9A5C5782CE845840781FA1CC81 /* Alamofire */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Alamofire; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5FD8E4EBA830B51FA0871FEAA75E4DF8 /* SPPermissions */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SPPermissions; path = SPPermissions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5D797E9A5C5782CE845840781FA1CC81 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5FD8E4EBA830B51FA0871FEAA75E4DF8 /* SPPermissions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SPPermissions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		605BB7845807ECBC5391BFA6801B29C2 /* SideMenu-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SideMenu-umbrella.h"; sourceTree = "<group>"; };
 		61639CCF2628B0CF955369311E2A057C /* Notifications.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Notifications.swift; path = Source/Notifications.swift; sourceTree = "<group>"; };
 		63CAA3AE8319E5EE01CFB4B652CE9A26 /* OperationQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "OperationQueue+Alamofire.swift"; path = "Source/OperationQueue+Alamofire.swift"; sourceTree = "<group>"; };
@@ -393,7 +393,7 @@
 		9867A55E9CD473D2DE446F56E1B67DC5 /* Pods-APITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-APITests.debug.xcconfig"; sourceTree = "<group>"; };
 		9964F3E6B0412C2F32AE90AAA4946BF5 /* Localizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = Localizable.strings; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
 		9D9158F253D1E1071A8953089B406EFA /* Pods-API-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-API-umbrella.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E443DD9665A29587D4D4587F59F74FA /* ResponseSerialization.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResponseSerialization.swift; path = Source/ResponseSerialization.swift; sourceTree = "<group>"; };
 		9F2971998C9AC7EE2404C912F620BC1D /* PasswordUIValidation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = PasswordUIValidation.swift; path = SmileLock/Classes/PasswordUIValidation.swift; sourceTree = "<group>"; };
 		A0EF21D24C09FE7412DF63C94AD92E46 /* Localizable.strings */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.strings; name = Localizable.strings; path = pt.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -428,7 +428,7 @@
 		C437EDCD1FA3E080BC02C354377B94EE /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
 		C54A760AB0398B52EAC6EF5A0A25C16E /* Images.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Images.swift; path = Sources/SPPermissions/Data/Images.swift; sourceTree = "<group>"; };
 		C67AB2567B7340B540555DCA1F1838A5 /* Pods-APITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-APITests-Info.plist"; sourceTree = "<group>"; };
-		C8498160B5D29EF2745E4D41F2D971B5 /* AlamofireImage */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AlamofireImage; path = AlamofireImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8498160B5D29EF2745E4D41F2D971B5 /* AlamofireImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AlamofireImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C89724D089CFE3527FF53E37F7D32CB8 /* ImageCache.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageCache.swift; path = Source/ImageCache.swift; sourceTree = "<group>"; };
 		C93AE5E42090CBED65604759A4EC6D46 /* SPPermissionsNativeController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SPPermissionsNativeController.swift; path = Sources/SPPermissions/Interface/Native/SPPermissionsNativeController.swift; sourceTree = "<group>"; };
 		CA30A8473180D778B71A527B8BFD1E93 /* SPPermissionsActionButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SPPermissionsActionButton.swift; path = Sources/SPPermissions/Interface/Shared/SPPermissionsActionButton.swift; sourceTree = "<group>"; };
@@ -456,7 +456,7 @@
 		E0CB38D665EF74963967CD09674E8F7F /* Pods-API-APIUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-API-APIUITests-Info.plist"; sourceTree = "<group>"; };
 		E1802620F8E33A1B2923BB03C8EDA294 /* ServerTrustEvaluation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ServerTrustEvaluation.swift; path = Source/ServerTrustEvaluation.swift; sourceTree = "<group>"; };
 		E1ACC4816AFE7A6A5BB100A7A0E452E6 /* Pods-API.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-API.release.xcconfig"; sourceTree = "<group>"; };
-		E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyJSON; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyJSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E26AC0ED2385109DB4E1A79C49825EFD /* ViewPager-Swift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "ViewPager-Swift.modulemap"; sourceTree = "<group>"; };
 		E37A098F11490BEDFBEAEED876CBD5BF /* ViewPager-Swift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ViewPager-Swift-prefix.pch"; sourceTree = "<group>"; };
 		E73EEF4EEAED11ABDCB1B17B55A75355 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -596,23 +596,22 @@
 				3B0F9D8FDF77BC96613D3C6AEFE36004 /* UIImageView+AlamofireImage.swift */,
 				B3EE45F6F19FA2F76C2C07705C717A06 /* Support Files */,
 			);
-			name = AlamofireImage;
 			path = AlamofireImage;
 			sourceTree = "<group>";
 		};
 		07D40388484F32EBAE35BA70570B3B17 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5D797E9A5C5782CE845840781FA1CC81 /* Alamofire */,
-				C8498160B5D29EF2745E4D41F2D971B5 /* AlamofireImage */,
+				5D797E9A5C5782CE845840781FA1CC81 /* Alamofire.framework */,
+				C8498160B5D29EF2745E4D41F2D971B5 /* AlamofireImage.framework */,
 				51A572CD30BBFE85326BAE8008050837 /* Pods-API */,
 				68CCAB5BA3CEC5AA0782BD17E895D886 /* Pods-API-APIUITests */,
 				AB74820F3B4DDE5D0C338E797556C1FD /* Pods-APITests */,
-				319D06AA0D1D0BA345459C039040A1ED /* SideMenu */,
-				516BBBB29224D265D7D333938F7E78CA /* SmileLock */,
-				5FD8E4EBA830B51FA0871FEAA75E4DF8 /* SPPermissions */,
-				0211367793A2FCD536B938775CD8B81E /* SPPermissions-SPPermissions */,
-				E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON */,
+				319D06AA0D1D0BA345459C039040A1ED /* SideMenu.framework */,
+				516BBBB29224D265D7D333938F7E78CA /* SmileLock.framework */,
+				5FD8E4EBA830B51FA0871FEAA75E4DF8 /* SPPermissions.framework */,
+				0211367793A2FCD536B938775CD8B81E /* SPPermissions.bundle */,
+				E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON.framework */,
 				40D193DE42DA53B3C4751403039843E1 /* ViewPager-Swift */,
 			);
 			name = Products;
@@ -633,7 +632,6 @@
 				EA4BEF2F3B90BED7A734D520A841A58C /* Core */,
 				87F57466B747E2E3E85368E5F0AEE172 /* Support Files */,
 			);
-			name = SPPermissions;
 			path = SPPermissions;
 			sourceTree = "<group>";
 		};
@@ -656,7 +654,6 @@
 				43AEF4F2466B85CC37DBDEEE9B65E314 /* UITableViewVibrantCell.swift */,
 				41F3D8E97F7E76F850045B37B46233D8 /* Support Files */,
 			);
-			name = SideMenu;
 			path = SideMenu;
 			sourceTree = "<group>";
 		};
@@ -708,7 +705,6 @@
 				341E1FE493E06035588A4BC2A673D62F /* SwiftyJSON.swift */,
 				8975B0197B26361FCE9E644959D39334 /* Support Files */,
 			);
-			name = SwiftyJSON;
 			path = SwiftyJSON;
 			sourceTree = "<group>";
 		};
@@ -866,7 +862,6 @@
 				EE03368910C59741DDFC08292C26E836 /* Resources */,
 				76EC24219B153377D9B3E0DAFC90861B /* Support Files */,
 			);
-			name = SmileLock;
 			path = SmileLock;
 			sourceTree = "<group>";
 		};
@@ -925,7 +920,6 @@
 				BC74579311D494A0AB64B0C03013DCBD /* Validation.swift */,
 				AC37B23B5F501AF0E6560DBF1AEC3F27 /* Support Files */,
 			);
-			name = Alamofire;
 			path = Alamofire;
 			sourceTree = "<group>";
 		};
@@ -996,7 +990,6 @@
 				11C1B17BB8E48EA96F5C24ACDAE851B0 /* ViewPagerTabView.swift */,
 				8A49B4B9E312D8E07146BBE76E10118B /* Support Files */,
 			);
-			name = "ViewPager-Swift";
 			path = "ViewPager-Swift";
 			sourceTree = "<group>";
 		};
@@ -1164,7 +1157,7 @@
 			);
 			name = SPPermissions;
 			productName = SPPermissions;
-			productReference = 5FD8E4EBA830B51FA0871FEAA75E4DF8 /* SPPermissions */;
+			productReference = 5FD8E4EBA830B51FA0871FEAA75E4DF8 /* SPPermissions.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		BF5B8FB50103E88F1B31C07164555C80 /* SmileLock */ = {
@@ -1182,7 +1175,7 @@
 			);
 			name = SmileLock;
 			productName = SmileLock;
-			productReference = 516BBBB29224D265D7D333938F7E78CA /* SmileLock */;
+			productReference = 516BBBB29224D265D7D333938F7E78CA /* SmileLock.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		C492DB2C516D792C3187904A95E388C8 /* SPPermissions-SPPermissions */ = {
@@ -1199,7 +1192,7 @@
 			);
 			name = "SPPermissions-SPPermissions";
 			productName = SPPermissions;
-			productReference = 0211367793A2FCD536B938775CD8B81E /* SPPermissions-SPPermissions */;
+			productReference = 0211367793A2FCD536B938775CD8B81E /* SPPermissions.bundle */;
 			productType = "com.apple.product-type.bundle";
 		};
 		C4A0A7D8591B67FB75E2E8D215E3735B /* SideMenu */ = {
@@ -1217,7 +1210,7 @@
 			);
 			name = SideMenu;
 			productName = SideMenu;
-			productReference = 319D06AA0D1D0BA345459C039040A1ED /* SideMenu */;
+			productReference = 319D06AA0D1D0BA345459C039040A1ED /* SideMenu.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		C783716400F1BCA84EC3B7B4D3CABA53 /* Pods-API-APIUITests */ = {
@@ -1261,7 +1254,7 @@
 			);
 			name = AlamofireImage;
 			productName = AlamofireImage;
-			productReference = C8498160B5D29EF2745E4D41F2D971B5 /* AlamofireImage */;
+			productReference = C8498160B5D29EF2745E4D41F2D971B5 /* AlamofireImage.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		D118A6A04828FD3CDA8640CD2B6796D2 /* SwiftyJSON */ = {
@@ -1279,7 +1272,7 @@
 			);
 			name = SwiftyJSON;
 			productName = SwiftyJSON;
-			productReference = E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON */;
+			productReference = E23C076BA70925415F490FEDB215DA92 /* SwiftyJSON.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		EAAA1AD3A8A1B59AB91319EE40752C6D /* Alamofire */ = {
@@ -1297,7 +1290,7 @@
 			);
 			name = Alamofire;
 			productName = Alamofire;
-			productReference = 5D797E9A5C5782CE845840781FA1CC81 /* Alamofire */;
+			productReference = 5D797E9A5C5782CE845840781FA1CC81 /* Alamofire.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -1307,7 +1300,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1240;
-				LastUpgradeCheck = 1240;
+				LastUpgradeCheck = 1300;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 13.0";
@@ -1429,7 +1422,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B775D2ACCEAEB173C5909961D4674BB0 /* SPPermissions-SPPermissions in Resources */,
+				B775D2ACCEAEB173C5909961D4674BB0 /* SPPermissions.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1772,7 +1765,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/AlamofireImage/AlamofireImage-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/AlamofireImage/AlamofireImage-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1845,7 +1838,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SPPermissions/SPPermissions-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SPPermissions/SPPermissions-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1879,7 +1872,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1906,7 +1899,7 @@
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SPPermissions";
 				IBSC_MODULE = SPPermissions;
 				INFOPLIST_FILE = "Target Support Files/SPPermissions/ResourceBundle-SPPermissions-SPPermissions-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = SPPermissions;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -1967,7 +1960,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/AlamofireImage/AlamofireImage-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/AlamofireImage/AlamofireImage-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2002,7 +1995,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SideMenu/SideMenu-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SideMenu/SideMenu-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2037,7 +2030,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SmileLock/SmileLock-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SmileLock/SmileLock-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2064,7 +2057,7 @@
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/SPPermissions";
 				IBSC_MODULE = SPPermissions;
 				INFOPLIST_FILE = "Target Support Files/SPPermissions/ResourceBundle-SPPermissions-SPPermissions-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = SPPermissions;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
@@ -2164,7 +2157,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Alamofire/Alamofire-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Alamofire/Alamofire-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2328,7 +2321,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SideMenu/SideMenu-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SideMenu/SideMenu-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2363,7 +2356,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/Alamofire/Alamofire-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/Alamofire/Alamofire-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2397,7 +2390,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SwiftyJSON/SwiftyJSON-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2467,7 +2460,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SPPermissions/SPPermissions-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SPPermissions/SPPermissions-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -2613,7 +2606,7 @@
 				GCC_PREFIX_HEADER = "Target Support Files/SmileLock/SmileLock-prefix.pch";
 				INFOPLIST_FILE = "Target Support Files/SmileLock/SmileLock-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

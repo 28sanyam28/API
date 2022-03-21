@@ -44,7 +44,3 @@ struct kohli: Codable {
 struct jaggi: Codable {
     let translation: String
 }
-
-struct Results: Codable {
-    let id: String
-}
