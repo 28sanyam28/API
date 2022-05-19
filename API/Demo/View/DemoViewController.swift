@@ -19,6 +19,7 @@ class DemoViewController: UIViewController, UICollectionViewDelegate, UICollecti
     var arrPage = [Int]()
     var myControllers = [UIViewController]()
     var index: Int = 0
+    var arrd = [String]()
     
     @IBOutlet var scrollView: UIScrollView!
     @IBOutlet var pageControl: UIPageControl!
@@ -31,7 +32,7 @@ class DemoViewController: UIViewController, UICollectionViewDelegate, UICollecti
         collectionView.dataSource = self
         collectionView.isPagingEnabled = true
         show()
-//        vc()
+        vc()
 //        parseJSON()
     }
     
@@ -42,7 +43,7 @@ extension DemoViewController: UICollectionViewDelegateFlowLayout {
         return CGSize(width: self.collectionView.frame.size.width, height: self.collectionView.frame.size.height)
     }
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
-        return 161
+        return 255
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
@@ -52,7 +53,7 @@ extension DemoViewController: UICollectionViewDelegateFlowLayout {
         cell.lblPageNo.text = "\(indexPath.row + 1)"
         cell.lblPage.isHidden = true
 
-        for i in 0...161 {
+        for i in 0...255 {
             if indexPath.row == i && indexPath.section == 0
             {
                 Punjabi[0]!.text = arrP[5*i]
@@ -66,12 +67,11 @@ extension DemoViewController: UICollectionViewDelegateFlowLayout {
                 English[3]!.text = arrE[5*i+3]
                 English[4]!.text = arrE[5*i+4]
             }
-                
         }
         return cell
         }
+    
     func show() {
-        
         guard let path = Bundle.main.url(forResource: "0001", withExtension: "json") else {
             fatalError("Could not find JSON")
         }
@@ -337,31 +337,104 @@ extension DemoViewController: UICollectionViewDelegateFlowLayout {
                     arrE.append(english)
                     print(arrE)
                 }
-//        guard let path9 = Bundle.main.url(forResource: "0011", withExtension: "json") else {
-//            fatalError("Could not find JSON")
-//        }
-//        guard let jsonData9 = try? Data(contentsOf: path9) else {
-//            fatalError("Could not Convert Data")
-//        }
-//        
-//            result = try? JSONDecoder().decode([Result].self, from: jsonData9)
-//        
-//                for i in 0...48 {
-//                    let punjabi = result![0].lines[i].gurmukhi.SGPC
-//                    arrP.append(punjabi)
-//                    print (arrP)
-//                    let english = result![0].lines[i].translations.english.kohli.translation
-//                    arrE.append(english)
-//                    print(arrE)
-//                }
-//                for i in 0...40 {
-//                    let punjabi = result![1].lines[i].gurmukhi.SGPC
-//                    arrP.append(punjabi)
-//                    print (arrP)
-//                    let english = result![1].lines[i].translations.english.kohli.translation
-//                    arrE.append(english)
-//                    print(arrE)
-//                }
+        guard let path9 = Bundle.main.url(forResource: "0011", withExtension: "json") else {
+            fatalError("Could not find JSON")
+        }
+        guard let jsonData9 = try? Data(contentsOf: path9) else {
+            fatalError("Could not Convert Data")
+        }
+        
+            result = try? JSONDecoder().decode([Result].self, from: jsonData9)
+        
+                for i in 0...48 {
+                    let punjabi = result![0].lines[i].gurmukhi.SGPC
+                    arrP.append(punjabi)
+                    print (arrP)
+                    let english = result![0].lines[i].translations.english.kohli.translation
+                    arrE.append(english)
+                    print(arrE)
+                }
+                for i in 0...40 {
+                    let punjabi = result![1].lines[i].gurmukhi.SGPC
+                    arrP.append(punjabi)
+                    print (arrP)
+                    let english = result![1].lines[i].translations.english.kohli.translation
+                    arrE.append(english)
+                    print(arrE)
+                }
+        guard let path10 = Bundle.main.url(forResource: "0012", withExtension: "json") else {
+            fatalError("Could not find JSON")
+        }
+        guard let jsonData10 = try? Data(contentsOf: path10) else {
+            fatalError("Could not Convert Data")
+        }
+        
+            result = try? JSONDecoder().decode([Result].self, from: jsonData10)
+        
+                for i in 0...40 {
+                    let punjabi = result![0].lines[i].gurmukhi.SGPC
+                    arrP.append(punjabi)
+                    print (arrP)
+                    let english = result![0].lines[i].translations.english.kohli.translation
+                    arrE.append(english)
+                    print(arrE)
+                }
+        guard let path11 = Bundle.main.url(forResource: "0013", withExtension: "json") else {
+            fatalError("Could not find JSON")
+        }
+        guard let jsonData11 = try? Data(contentsOf: path11) else {
+            fatalError("Could not Convert Data")
+        }
+
+            result = try? JSONDecoder().decode([Result].self, from: jsonData11)
+
+                for i in 0...80 {
+                    let punjabi = result![0].lines[i].gurmukhi.SGPC
+                    arrP.append(punjabi)
+                    print (arrP)
+                    let english = result![0].lines[i].translations.english.kohli.translation
+                    arrE.append(english)
+                    print(arrE)
+                }
+                for i in 0...80 {
+                    let punjabi = result![1].lines[i].gurmukhi.SGPC
+                    arrP.append(punjabi)
+                    print (arrP)
+                    let english = result![1].lines[i].translations.english.kohli.translation
+                    arrE.append(english)
+                    print(arrE)
+                }
+        guard let path12 = Bundle.main.url(forResource: "0014", withExtension: "json") else {
+            fatalError("Could not find JSON")
+        }
+        guard let jsonData12 = try? Data(contentsOf: path12) else {
+            fatalError("Could not Convert Data")
+        }
+
+            result = try? JSONDecoder().decode([Result].self, from: jsonData12)
+
+                for i in 0...80 {
+                    let punjabi = result![0].lines[i].gurmukhi.SGPC
+                    arrP.append(punjabi)
+                    print (arrP)
+                    let english = result![0].lines[i].translations.english.kohli.translation
+                    arrE.append(english)
+                    print(arrE)
+                }
+        guard let path13 = Bundle.main.url(forResource: "0019", withExtension: "json") else {
+            fatalError("Could not find JSON")
+        }
+        guard let jsonData13 = try? Data(contentsOf: path13) else {
+            fatalError("Could not Convert Data")
+        }
+
+            result = try? JSONDecoder().decode([Result].self, from: jsonData13)
+
+                    for i in 0...120 {
+                    let p = result![0].lines[i].translations.english.kohli.translation
+                    arrd.append(p)
+                    print(arrd)
+                        }
     }
     func vc() {
 //                    var page = [Int]()

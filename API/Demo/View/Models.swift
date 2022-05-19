@@ -8,14 +8,11 @@
 import Foundation
 
 struct Result:Codable {
-    let id: String
     let lines: [ResultItem]
 }
 
 struct ResultItem: Codable {
-    let id: String
     let source_page: Int
-    let source_line: Int
     let gurmukhi: gurmukhi
     let translations: translations
 }
